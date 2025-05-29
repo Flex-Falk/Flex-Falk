@@ -5,9 +5,11 @@
 
 ### 👨🏻‍💻 Bio
 
-Hello there! I am currently studying Computer Science at the Leibniz University of Hannover in my Master's program with a special focus on Human-Centered Computing. Here I share my projects, either university or personal. 
+Hello there! 
 
-I started coding at the beginning of my bachelor studies in 2019. Since then, I have been learning different programming languages and participating in different projects. Recently, I started focusing on topics related to human-computer interaction, such as app development, physical computing with microcontrollers, web development and usability engineering.
+I recently completed my Master's in Computer Science at Leibniz University Hannover, specializing in Human-Centered Computing. Soon, I’ll be starting my PhD in Human-Computer Interaction, continuing my research in immersive systems and user-centered design.
+
+Here, I share both university and personal projects—ranging from web and app development to physical computing and AR interfaces.
 
 This is btw a GIF of me working on a project:
 
