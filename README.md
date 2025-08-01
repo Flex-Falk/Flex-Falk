@@ -1,6 +1,6 @@
 # 🌱 Falk Stock
 
-**`Computer Scientist, HCC Enthusiast`**
+**`HCI Researcher, Computer Scientist`**
 
 
 ### 👨🏻‍💻 Bio
