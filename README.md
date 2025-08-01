@@ -7,8 +7,7 @@
 
 Hello there! 
 
-I recently completed my Master's in Computer Science at Leibniz University Hannover, specializing in Human-Centered Computing. Soon, I’ll be starting my PhD in Human-Computer Interaction, continuing my research in immersive systems and user-centered design.
-
+I'm a PhD student in Human-Computer Interaction at Leibniz University Hannover, continuing my research in immersive systems and user-centered design.
 Here, I share both university and personal projects—ranging from web and app development to physical computing and AR interfaces.
 
 This is btw a GIF of me working on a project:
